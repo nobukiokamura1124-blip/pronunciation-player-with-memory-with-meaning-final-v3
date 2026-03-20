@@ -1,0 +1,6 @@
+streamlit==1.33.0
+gtts==2.5.1
+supabase>=2.0.0
+requests==2.31.0
+deep-translator==1.11.4
+openai
